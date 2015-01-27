@@ -75,7 +75,7 @@ clear();
     swap(0, this.length);
 ```
 
-## Polymoprhic operators
+## Polymorphic operator
 
 A well planned system of objects is beautiful: a system where every meaningful
 method for an object has been anticipated in the design.
