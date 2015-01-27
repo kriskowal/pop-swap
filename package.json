@@ -1,0 +1,28 @@
+{
+  "name": "pop-swap",
+  "version": "0.0.0",
+  "description": "Range content change operator for arrays and array-like objects",
+  "main": "pop-swap.js",
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-swap.git"
+  },
+  "keywords": [
+    "array",
+    "swap",
+    "polymorphic",
+    "operator"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-swap/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-swap",
+  "devDependencies": {
+    "jasminum": "^2.0.5"
+  }
+}
