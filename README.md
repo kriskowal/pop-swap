@@ -105,3 +105,11 @@ var proxy = {
 swap(proxy, 0, 1, ['Farewell']);
 ```
 
+## Copyright and License
+
+This project has been factored out of Montage Studio's Collections and as such
+retains its copyright and license.
+
+Copyright (c) 2014 Montage Studio, Inc. and contributors.
+BSD 3-Clause License
+
